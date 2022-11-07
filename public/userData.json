@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Evelyn",
+    "gender": "female",
+    "contact": "(817) 507-3159",
+    "address": "50 no. Noble Street, Warsaw, Ohio",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Stella",
+    "gender": "female",
+    "contact": "(942) 561-3088",
+    "address": "43 no. Harway Avenue, Shindler, Kentucky",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Hilary",
+    "gender": "female",
+    "contact": "(992) 439-3340",
+    "address": "29 no. Garfield Place, Freelandville, Louisiana",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Hughes",
+    "gender": "male",
+    "contact": "(845) 513-2463",
+    "address": "57 no. College Place, Yogaville, Guam",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Tabitha",
+    "gender": "female",
+    "contact": "(812) 408-3903",
+    "address": "45 no. Rugby Road, Turpin, Minnesota",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Herminia",
+    "gender": "female",
+    "contact": "(889) 550-2419",
+    "address": "25 no. Opal Court, Kylertown, Florida",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Karen",
+    "gender": "female",
+    "contact": "(986) 455-3823",
+    "address": "35 no. Frank Court, Rosewood, New Jersey",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Tracie",
+    "gender": "female",
+    "contact": "(826) 464-3803",
+    "address": "33 no. Pacific Street, Wheaton, Maine",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Camille",
+    "gender": "female",
+    "contact": "(881) 573-2342",
+    "address": "24 no. Dank Court, Reno, Virgin Islands",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Doreen",
+    "gender": "female",
+    "contact": "(952) 548-2677",
+    "address": "26 no. Clove Road, Thornport, Rhode Island",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80"
+  }
+]
